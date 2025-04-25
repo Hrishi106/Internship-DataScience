@@ -25,37 +25,38 @@
 
 🔧 Tools & Technologies Used
 
-Python 3.10
+1. Python 3.10
 
-Jupyter Notebook
+2. Jupyter Notebook
 
-Git & GitHub
+3. Git & GitHub
 
-Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+4. Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-IDEs: IDLE, Jupyter Notebook
+5. IDEs: IDLE, Jupyter Notebook
 
-Basic NLP libraries: (e.g., NLTK or spaCy — if used, mention)
 
 📈 Key Concepts Covered
-Python syntax and operations
 
-Data structures: List, Tuple, Set, Dictionary
+1.Python syntax and operations
 
-Operators in Python (Arithmetic, Logical, Bitwise, etc.)
+2. Data structures: List, Tuple, Set, Dictionary
 
-Data cleaning and handling missing values
+3. Operators in Python (Arithmetic, Logical, Bitwise, etc.)
 
-Feature selection and transformation
+4. Data cleaning and handling missing values
 
-Data visualization techniques
+5. Feature selection and transformation
 
-Supervised Learning (Basic ML models)
+6. Data visualization techniques
+
+7. Supervised Learning (Basic ML models)
 
 
 
 
 💡 Outcome & Impact
+
 Developed a solid foundation in practical Data Science techniques.
 
 Learned how to apply academic concepts to solve real-world problems.
